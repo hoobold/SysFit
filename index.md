@@ -1,5 +1,6 @@
 ---
 layout: default
+title: SysFit - Sistema de Gestão Fitness
 ---
 
 # SysFit
